@@ -1,3 +1,6 @@
+// import models here
+import { person } from "../db/connector";
+
 const resolver = {
     Query: {
         // Example:
